@@ -1,0 +1,9 @@
+# Java 编译产物
+*.class
+
+# 编辑器 / 系统
+.idea/
+.vscode/
+*.swp
+Thumbs.db
+.DS_Store
